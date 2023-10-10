@@ -8,10 +8,6 @@
 
 ### 
 
-<h2 align="center">Hello, I'm Ibrahim Saber an embedded software engineer under development.<br>Welcome to my GitHub!</h2>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Ibrahemsab022/count.svg?"  />
 </div>
